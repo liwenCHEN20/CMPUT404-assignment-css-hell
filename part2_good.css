@@ -1,0 +1,41 @@
+a {
+    text-align: center;
+    display: table;
+	font-family: "Verdana", Times, Sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+h1,h2{
+    text-align: center;
+}
+div.sidebar {
+	background-color: #FFCC33;
+	width: 12%;
+	height: 100%;
+	float: left;
+	font-family: "Times New Roman", Times, serif;
+	font-size: medium;
+	line-height: 2em;
+}
+img {
+    margin-left:5%;
+	
+}
+body { 
+    text-align:justify;
+	background-color:#ff6666;
+	width:
+	height:
+}
+div.content{
+    margin-left: 15%;
+	margin-right: 10%;
+	font-family: "Lucida Console", Times, Monospace;
+	font-size: large;
+
+
+}
+div.footer{
+  float:right;
+
+}

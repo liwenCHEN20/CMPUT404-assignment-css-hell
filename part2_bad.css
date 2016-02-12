@@ -1,0 +1,38 @@
+div.sidebar {
+	background-color: #ff6699;
+	width: 12%;
+	height: 100%;
+	float: left;
+	font-family: "Times New Roman", Times, serif;
+	font-size: medium;
+	line-height: 2em;
+}
+img {
+    margin:5%;
+}
+p{
+    margin:5%;
+    font-style: oblique;
+	font-family: "Courier New", Times, Monospace;
+    color:yellow;
+	display: table;
+}
+a{
+    margin:5%;
+    font-style: oblique;
+    color:#ff6600;
+}
+h1,h2,h3,h4,h5{
+	margin:5%;
+	color:#99ff66;
+}
+div.content{
+	margin:15%
+	font-size: large;
+	line-height: 2em;
+}
+body {
+  background-image:url("image/backdrop.png");
+    text-align:justify;
+}
+

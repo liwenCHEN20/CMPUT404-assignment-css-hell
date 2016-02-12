@@ -12,3 +12,8 @@ http://www.gutenberg.org/files/16/16-h/16-h.htm
 
 
 
+Part1:
+1, make a css file called part1.css
+2, change the background by image
+3, change the display of the list of the chapter
+4, change the h's color and some other block's color
